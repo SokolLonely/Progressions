@@ -1,0 +1,12 @@
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\bin\Debug\net6.0\ProgressionLib.deps.json
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\bin\Debug\net6.0\ProgressionLib.dll
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\bin\Debug\net6.0\ProgressionLib.pdb
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ProgressionLib.csproj.AssemblyReference.cache
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ProgressionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ProgressionLib.AssemblyInfoInputs.cache
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ProgressionLib.AssemblyInfo.cs
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ProgressionLib.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ProgressionLib.dll
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\refint\ProgressionLib.dll
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ProgressionLib.pdb
+C:\Users\Алексей\Documents\Сема\школа\ЛИТ\ProgressionLib\ProgressionLib\obj\Debug\net6.0\ref\ProgressionLib.dll
